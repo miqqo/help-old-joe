@@ -9,9 +9,9 @@
 /* Begin PBXBuildFile section */
 		733112D61DEC7A5A0086856E /* ProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 733112D51DEC7A5A0086856E /* ProfileViewController.m */; };
 		733112DC1DEC82F50086856E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 733112DA1DEC82F50086856E /* Main.storyboard */; };
+		73418B981DFE8FE5000AECE4 /* gubbeutantext.png in Resources */ = {isa = PBXBuildFile; fileRef = 73418B971DFE8FE5000AECE4 /* gubbeutantext.png */; };
+		73418B9A1DFE94EA000AECE4 /* done.png in Resources */ = {isa = PBXBuildFile; fileRef = 73418B991DFE94EA000AECE4 /* done.png */; };
 		734B3E211DEED45500095D2F /* Avatar_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 734B3E201DEED45500095D2F /* Avatar_icon@2x.png */; };
-		734B3E231DEED48400095D2F /* Avatar_icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 734B3E221DEED48400095D2F /* Avatar_icon@3x.png */; };
-		734B3E251DEED8D800095D2F /* map.png in Resources */ = {isa = PBXBuildFile; fileRef = 734B3E241DEED8D800095D2F /* map.png */; };
 		734B3E291DEEDD2800095D2F /* ic_settings_black_24dp.png in Resources */ = {isa = PBXBuildFile; fileRef = 734B3E281DEEDD2800095D2F /* ic_settings_black_24dp.png */; };
 		734B3E2B1DEEDEC100095D2F /* ic_build_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 734B3E2A1DEEDEC100095D2F /* ic_build_3x.png */; };
 		734B3E2D1DEEDED100095D2F /* ic_face_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 734B3E2C1DEEDED100095D2F /* ic_face_3x.png */; };
@@ -20,20 +20,49 @@
 		734B3E331DEEE04100095D2F /* ic_query_builder_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 734B3E321DEEE04100095D2F /* ic_query_builder_3x.png */; };
 		734B3E351DEEE48900095D2F /* ic_account_circle_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 734B3E341DEEE48900095D2F /* ic_account_circle_2x.png */; };
 		734B3E371DEEF37700095D2F /* ic_room_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 734B3E361DEEF37700095D2F /* ic_room_2x.png */; };
+		736E2FE51DF95B11001F41A7 /* Avatar_icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FCB1DF95B11001F41A7 /* Avatar_icon@3x.png */; };
+		736E2FE61DF95B11001F41A7 /* avatar.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FCC1DF95B11001F41A7 /* avatar.png */; };
+		736E2FE71DF95B11001F41A7 /* dribbble-1000-folowers.gif in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FCD1DF95B11001F41A7 /* dribbble-1000-folowers.gif */; };
+		736E2FE81DF95B11001F41A7 /* faces.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FCE1DF95B11001F41A7 /* faces.png */; };
+		736E2FE91DF95B11001F41A7 /* glatt face.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FCF1DF95B11001F41A7 /* glatt face.png */; };
+		736E2FEA1DF95B11001F41A7 /* gubbehuvud.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FD01DF95B11001F41A7 /* gubbehuvud.png */; };
+		736E2FEB1DF95B11001F41A7 /* gubbemedkropp.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FD11DF95B11001F41A7 /* gubbemedkropp.png */; };
+		736E2FEC1DF95B11001F41A7 /* Help Old Joe - Firstpage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FD21DF95B11001F41A7 /* Help Old Joe - Firstpage.jpg */; };
+		736E2FED1DF95B11001F41A7 /* hjalptjej_photo.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FD31DF95B11001F41A7 /* hjalptjej_photo.png */; };
+		736E2FEE1DF95B11001F41A7 /* hjälptjej.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FD41DF95B11001F41A7 /* hjälptjej.png */; };
+		736E2FEF1DF95B11001F41A7 /* ic_account_circle_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FD51DF95B11001F41A7 /* ic_account_circle_2x.png */; };
+		736E2FF01DF95B11001F41A7 /* ic_event_note_48pt_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FD61DF95B11001F41A7 /* ic_event_note_48pt_3x.png */; };
+		736E2FF11DF95B11001F41A7 /* ic_face_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FD71DF95B11001F41A7 /* ic_face_2x.png */; };
+		736E2FF21DF95B11001F41A7 /* ic_face.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FD81DF95B11001F41A7 /* ic_face.png */; };
+		736E2FF31DF95B11001F41A7 /* ic_gps_not_fixed_48pt_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FD91DF95B11001F41A7 /* ic_gps_not_fixed_48pt_3x.png */; };
+		736E2FF41DF95B11001F41A7 /* ic_search_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FDA1DF95B11001F41A7 /* ic_search_2x.png */; };
+		736E2FF51DF95B11001F41A7 /* ic_search.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FDB1DF95B11001F41A7 /* ic_search.png */; };
+		736E2FF61DF95B11001F41A7 /* ic_settings_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FDC1DF95B11001F41A7 /* ic_settings_2x.png */; };
+		736E2FF71DF95B11001F41A7 /* ic_shopping_cart_48pt_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FDD1DF95B11001F41A7 /* ic_shopping_cart_48pt_3x.png */; };
+		736E2FF81DF95B11001F41A7 /* icon_hjalptjej.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FDE1DF95B11001F41A7 /* icon_hjalptjej.png */; };
+		736E2FF91DF95B11001F41A7 /* karta.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FDF1DF95B11001F41A7 /* karta.png */; };
+		736E2FFA1DF95B11001F41A7 /* map.png in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FE01DF95B11001F41A7 /* map.png */; };
+		736E2FFB1DF95B11001F41A7 /* rabatt_bowling3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FE11DF95B11001F41A7 /* rabatt_bowling3.jpg */; };
+		736E2FFC1DF95B11001F41A7 /* rabatt_cykelservice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FE21DF95B11001F41A7 /* rabatt_cykelservice.jpg */; };
+		736E2FFD1DF95B11001F41A7 /* rabatt_halsofreak.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FE31DF95B11001F41A7 /* rabatt_halsofreak.jpg */; };
+		736E2FFE1DF95B11001F41A7 /* rabatt_SF.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 736E2FE41DF95B11001F41A7 /* rabatt_SF.jpg */; };
 		739F38911DEC3AF30090D2D9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 739F38901DEC3AF30090D2D9 /* main.m */; };
 		739F38941DEC3AF30090D2D9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 739F38931DEC3AF30090D2D9 /* AppDelegate.m */; };
 		739F38971DEC3AF30090D2D9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 739F38961DEC3AF30090D2D9 /* ViewController.m */; };
 		739F389C1DEC3AF30090D2D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 739F389B1DEC3AF30090D2D9 /* Assets.xcassets */; };
 		739F389F1DEC3AF30090D2D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 739F389D1DEC3AF30090D2D9 /* LaunchScreen.storyboard */; };
+		73AE36F01DF8484700E7C4A1 /* hjalptjej_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 73AE36EF1DF8484700E7C4A1 /* hjalptjej_icon.png */; };
+		73ECEF621DFAE4A000F66E51 /* ic_build_3x_faded.png in Resources */ = {isa = PBXBuildFile; fileRef = 73ECEF611DFAE4A000F66E51 /* ic_build_3x_faded.png */; };
+		73ECEF641DFAF32200F66E51 /* grandma.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 73ECEF631DFAF32200F66E51 /* grandma.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		733112D41DEC7A5A0086856E /* ProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProfileViewController.h; sourceTree = "<group>"; };
 		733112D51DEC7A5A0086856E /* ProfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProfileViewController.m; sourceTree = "<group>"; };
 		733112DB1DEC82F50086856E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		73418B971DFE8FE5000AECE4 /* gubbeutantext.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gubbeutantext.png; path = ../../../../../../Desktop/gubbeutantext.png; sourceTree = "<group>"; };
+		73418B991DFE94EA000AECE4 /* done.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = done.png; path = ../../../../../../Desktop/HOJ/done.png; sourceTree = "<group>"; };
 		734B3E201DEED45500095D2F /* Avatar_icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Avatar_icon@2x.png"; path = "../../../../../Frost/easyhunt-ios/EasyHunt/EasyHunt/Images.xcassets/Avatar_Placeholder.imageset/Avatar_icon@2x.png"; sourceTree = "<group>"; };
-		734B3E221DEED48400095D2F /* Avatar_icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Avatar_icon@3x.png"; path = "../../../../../../Desktop/Avatar_icon@3x.png"; sourceTree = "<group>"; };
-		734B3E241DEED8D800095D2F /* map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = map.png; path = ../../../../../../Desktop/map.png; sourceTree = "<group>"; };
 		734B3E281DEEDD2800095D2F /* ic_settings_black_24dp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_settings_black_24dp.png; path = "../../../../../../Downloads/ic_settings_black_24dp/android/drawable-xxhdpi/ic_settings_black_24dp.png"; sourceTree = "<group>"; };
 		734B3E2A1DEEDEC100095D2F /* ic_build_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_build_3x.png; path = ../../../../../../Downloads/ic_build_black_24dp/ios/ic_build.imageset/ic_build_3x.png; sourceTree = "<group>"; };
 		734B3E2C1DEEDED100095D2F /* ic_face_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_face_3x.png; path = ../../../../../../Downloads/ic_face_black_24dp/ios/ic_face.imageset/ic_face_3x.png; sourceTree = "<group>"; };
@@ -42,6 +71,32 @@
 		734B3E321DEEE04100095D2F /* ic_query_builder_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_query_builder_3x.png; path = ../../../../../../Downloads/ic_query_builder_black_24dp/ios/ic_query_builder.imageset/ic_query_builder_3x.png; sourceTree = "<group>"; };
 		734B3E341DEEE48900095D2F /* ic_account_circle_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_account_circle_2x.png; path = ../../../../../../Downloads/ic_account_circle_black_24dp/ios/ic_account_circle.imageset/ic_account_circle_2x.png; sourceTree = "<group>"; };
 		734B3E361DEEF37700095D2F /* ic_room_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_room_2x.png; path = ../../../../../../Downloads/ic_room_black_24dp/ios/ic_room.imageset/ic_room_2x.png; sourceTree = "<group>"; };
+		736E2FCB1DF95B11001F41A7 /* Avatar_icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Avatar_icon@3x.png"; path = "../../../../../../Desktop/HOJ/Avatar_icon@3x.png"; sourceTree = "<group>"; };
+		736E2FCC1DF95B11001F41A7 /* avatar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = avatar.png; path = ../../../../../../Desktop/HOJ/avatar.png; sourceTree = "<group>"; };
+		736E2FCD1DF95B11001F41A7 /* dribbble-1000-folowers.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "dribbble-1000-folowers.gif"; path = "../../../../../../Desktop/HOJ/dribbble-1000-folowers.gif"; sourceTree = "<group>"; };
+		736E2FCE1DF95B11001F41A7 /* faces.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = faces.png; path = ../../../../../../Desktop/HOJ/faces.png; sourceTree = "<group>"; };
+		736E2FCF1DF95B11001F41A7 /* glatt face.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "glatt face.png"; path = "../../../../../../Desktop/HOJ/glatt face.png"; sourceTree = "<group>"; };
+		736E2FD01DF95B11001F41A7 /* gubbehuvud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gubbehuvud.png; path = ../../../../../../Desktop/HOJ/gubbehuvud.png; sourceTree = "<group>"; };
+		736E2FD11DF95B11001F41A7 /* gubbemedkropp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gubbemedkropp.png; path = ../../../../../../Desktop/HOJ/gubbemedkropp.png; sourceTree = "<group>"; };
+		736E2FD21DF95B11001F41A7 /* Help Old Joe - Firstpage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Help Old Joe - Firstpage.jpg"; path = "../../../../../../Desktop/HOJ/Help Old Joe - Firstpage.jpg"; sourceTree = "<group>"; };
+		736E2FD31DF95B11001F41A7 /* hjalptjej_photo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = hjalptjej_photo.png; path = ../../../../../../Desktop/HOJ/hjalptjej_photo.png; sourceTree = "<group>"; };
+		736E2FD41DF95B11001F41A7 /* hjälptjej.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "hjälptjej.png"; path = "../../../../../../Desktop/HOJ/hjälptjej.png"; sourceTree = "<group>"; };
+		736E2FD51DF95B11001F41A7 /* ic_account_circle_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_account_circle_2x.png; path = ../../../../../../Desktop/HOJ/ic_account_circle_2x.png; sourceTree = "<group>"; };
+		736E2FD61DF95B11001F41A7 /* ic_event_note_48pt_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_event_note_48pt_3x.png; path = ../../../../../../Desktop/HOJ/ic_event_note_48pt_3x.png; sourceTree = "<group>"; };
+		736E2FD71DF95B11001F41A7 /* ic_face_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_face_2x.png; path = ../../../../../../Desktop/HOJ/ic_face_2x.png; sourceTree = "<group>"; };
+		736E2FD81DF95B11001F41A7 /* ic_face.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_face.png; path = ../../../../../../Desktop/HOJ/ic_face.png; sourceTree = "<group>"; };
+		736E2FD91DF95B11001F41A7 /* ic_gps_not_fixed_48pt_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_gps_not_fixed_48pt_3x.png; path = ../../../../../../Desktop/HOJ/ic_gps_not_fixed_48pt_3x.png; sourceTree = "<group>"; };
+		736E2FDA1DF95B11001F41A7 /* ic_search_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_search_2x.png; path = ../../../../../../Desktop/HOJ/ic_search_2x.png; sourceTree = "<group>"; };
+		736E2FDB1DF95B11001F41A7 /* ic_search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_search.png; path = ../../../../../../Desktop/HOJ/ic_search.png; sourceTree = "<group>"; };
+		736E2FDC1DF95B11001F41A7 /* ic_settings_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_settings_2x.png; path = ../../../../../../Desktop/HOJ/ic_settings_2x.png; sourceTree = "<group>"; };
+		736E2FDD1DF95B11001F41A7 /* ic_shopping_cart_48pt_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_shopping_cart_48pt_3x.png; path = ../../../../../../Desktop/HOJ/ic_shopping_cart_48pt_3x.png; sourceTree = "<group>"; };
+		736E2FDE1DF95B11001F41A7 /* icon_hjalptjej.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon_hjalptjej.png; path = ../../../../../../Desktop/HOJ/icon_hjalptjej.png; sourceTree = "<group>"; };
+		736E2FDF1DF95B11001F41A7 /* karta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = karta.png; path = ../../../../../../Desktop/HOJ/karta.png; sourceTree = "<group>"; };
+		736E2FE01DF95B11001F41A7 /* map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = map.png; path = ../../../../../../Desktop/HOJ/map.png; sourceTree = "<group>"; };
+		736E2FE11DF95B11001F41A7 /* rabatt_bowling3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rabatt_bowling3.jpg; path = ../../../../../../Desktop/HOJ/rabatt_bowling3.jpg; sourceTree = "<group>"; };
+		736E2FE21DF95B11001F41A7 /* rabatt_cykelservice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rabatt_cykelservice.jpg; path = ../../../../../../Desktop/HOJ/rabatt_cykelservice.jpg; sourceTree = "<group>"; };
+		736E2FE31DF95B11001F41A7 /* rabatt_halsofreak.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rabatt_halsofreak.jpg; path = ../../../../../../Desktop/HOJ/rabatt_halsofreak.jpg; sourceTree = "<group>"; };
+		736E2FE41DF95B11001F41A7 /* rabatt_SF.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rabatt_SF.jpg; path = ../../../../../../Desktop/HOJ/rabatt_SF.jpg; sourceTree = "<group>"; };
 		739F388C1DEC3AF30090D2D9 /* HOJ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HOJ.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		739F38901DEC3AF30090D2D9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		739F38921DEC3AF30090D2D9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +106,9 @@
 		739F389B1DEC3AF30090D2D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		739F389E1DEC3AF30090D2D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		739F38A01DEC3AF30090D2D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73AE36EF1DF8484700E7C4A1 /* hjalptjej_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = hjalptjej_icon.png; path = ../../../../../../Downloads/hjalptjej_icon.png; sourceTree = "<group>"; };
+		73ECEF611DFAE4A000F66E51 /* ic_build_3x_faded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_build_3x_faded.png; path = ../../../../../../Desktop/HOJ/ic_build_3x_faded.png; sourceTree = "<group>"; };
+		73ECEF631DFAF32200F66E51 /* grandma.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = grandma.jpg; path = ../../../../../../Desktop/HOJ/grandma.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +133,53 @@
 			name = Controllers;
 			sourceTree = "<group>";
 		};
+		736E2FFF1DF95B75001F41A7 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				73418B991DFE94EA000AECE4 /* done.png */,
+				73418B971DFE8FE5000AECE4 /* gubbeutantext.png */,
+				73ECEF631DFAF32200F66E51 /* grandma.jpg */,
+				73ECEF611DFAE4A000F66E51 /* ic_build_3x_faded.png */,
+				736E2FCB1DF95B11001F41A7 /* Avatar_icon@3x.png */,
+				736E2FCC1DF95B11001F41A7 /* avatar.png */,
+				736E2FCD1DF95B11001F41A7 /* dribbble-1000-folowers.gif */,
+				736E2FCE1DF95B11001F41A7 /* faces.png */,
+				736E2FCF1DF95B11001F41A7 /* glatt face.png */,
+				736E2FD01DF95B11001F41A7 /* gubbehuvud.png */,
+				736E2FD11DF95B11001F41A7 /* gubbemedkropp.png */,
+				736E2FD21DF95B11001F41A7 /* Help Old Joe - Firstpage.jpg */,
+				736E2FD31DF95B11001F41A7 /* hjalptjej_photo.png */,
+				736E2FD41DF95B11001F41A7 /* hjälptjej.png */,
+				736E2FD51DF95B11001F41A7 /* ic_account_circle_2x.png */,
+				736E2FD61DF95B11001F41A7 /* ic_event_note_48pt_3x.png */,
+				736E2FD71DF95B11001F41A7 /* ic_face_2x.png */,
+				736E2FD81DF95B11001F41A7 /* ic_face.png */,
+				736E2FD91DF95B11001F41A7 /* ic_gps_not_fixed_48pt_3x.png */,
+				736E2FDA1DF95B11001F41A7 /* ic_search_2x.png */,
+				736E2FDB1DF95B11001F41A7 /* ic_search.png */,
+				736E2FDC1DF95B11001F41A7 /* ic_settings_2x.png */,
+				736E2FDD1DF95B11001F41A7 /* ic_shopping_cart_48pt_3x.png */,
+				736E2FDE1DF95B11001F41A7 /* icon_hjalptjej.png */,
+				736E2FDF1DF95B11001F41A7 /* karta.png */,
+				736E2FE01DF95B11001F41A7 /* map.png */,
+				736E2FE11DF95B11001F41A7 /* rabatt_bowling3.jpg */,
+				736E2FE21DF95B11001F41A7 /* rabatt_cykelservice.jpg */,
+				736E2FE31DF95B11001F41A7 /* rabatt_halsofreak.jpg */,
+				736E2FE41DF95B11001F41A7 /* rabatt_SF.jpg */,
+				73AE36EF1DF8484700E7C4A1 /* hjalptjej_icon.png */,
+				734B3E361DEEF37700095D2F /* ic_room_2x.png */,
+				734B3E341DEEE48900095D2F /* ic_account_circle_2x.png */,
+				734B3E321DEEE04100095D2F /* ic_query_builder_3x.png */,
+				734B3E301DEEDF0B00095D2F /* ic_motorcycle_3x.png */,
+				734B3E2E1DEEDEE000095D2F /* ic_pets_3x.png */,
+				734B3E2C1DEEDED100095D2F /* ic_face_3x.png */,
+				734B3E2A1DEEDEC100095D2F /* ic_build_3x.png */,
+				734B3E281DEEDD2800095D2F /* ic_settings_black_24dp.png */,
+				734B3E201DEED45500095D2F /* Avatar_icon@2x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 		739F38831DEC3AF30090D2D9 = {
 			isa = PBXGroup;
 			children = (
@@ -94,22 +199,12 @@
 		739F388E1DEC3AF30090D2D9 /* HOJ */ = {
 			isa = PBXGroup;
 			children = (
+				736E2FFF1DF95B75001F41A7 /* Images */,
 				733112DD1DEC83340086856E /* Controllers */,
 				733112DA1DEC82F50086856E /* Main.storyboard */,
 				739F38921DEC3AF30090D2D9 /* AppDelegate.h */,
 				739F38931DEC3AF30090D2D9 /* AppDelegate.m */,
 				739F389B1DEC3AF30090D2D9 /* Assets.xcassets */,
-				734B3E361DEEF37700095D2F /* ic_room_2x.png */,
-				734B3E341DEEE48900095D2F /* ic_account_circle_2x.png */,
-				734B3E321DEEE04100095D2F /* ic_query_builder_3x.png */,
-				734B3E301DEEDF0B00095D2F /* ic_motorcycle_3x.png */,
-				734B3E2E1DEEDEE000095D2F /* ic_pets_3x.png */,
-				734B3E2C1DEEDED100095D2F /* ic_face_3x.png */,
-				734B3E2A1DEEDEC100095D2F /* ic_build_3x.png */,
-				734B3E281DEEDD2800095D2F /* ic_settings_black_24dp.png */,
-				734B3E241DEED8D800095D2F /* map.png */,
-				734B3E221DEED48400095D2F /* Avatar_icon@3x.png */,
-				734B3E201DEED45500095D2F /* Avatar_icon@2x.png */,
 				739F389D1DEC3AF30090D2D9 /* LaunchScreen.storyboard */,
 				739F38A01DEC3AF30090D2D9 /* Info.plist */,
 				739F388F1DEC3AF30090D2D9 /* Supporting Files */,
@@ -183,20 +278,49 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				736E2FE61DF95B11001F41A7 /* avatar.png in Resources */,
+				736E2FFB1DF95B11001F41A7 /* rabatt_bowling3.jpg in Resources */,
+				736E2FFE1DF95B11001F41A7 /* rabatt_SF.jpg in Resources */,
 				734B3E311DEEDF0B00095D2F /* ic_motorcycle_3x.png in Resources */,
+				736E2FF31DF95B11001F41A7 /* ic_gps_not_fixed_48pt_3x.png in Resources */,
 				734B3E351DEEE48900095D2F /* ic_account_circle_2x.png in Resources */,
+				73ECEF641DFAF32200F66E51 /* grandma.jpg in Resources */,
 				734B3E2F1DEEDEE000095D2F /* ic_pets_3x.png in Resources */,
-				734B3E251DEED8D800095D2F /* map.png in Resources */,
+				736E2FF81DF95B11001F41A7 /* icon_hjalptjej.png in Resources */,
 				733112DC1DEC82F50086856E /* Main.storyboard in Resources */,
 				739F389F1DEC3AF30090D2D9 /* LaunchScreen.storyboard in Resources */,
+				736E2FF61DF95B11001F41A7 /* ic_settings_2x.png in Resources */,
+				736E2FEE1DF95B11001F41A7 /* hjälptjej.png in Resources */,
+				736E2FF91DF95B11001F41A7 /* karta.png in Resources */,
 				734B3E211DEED45500095D2F /* Avatar_icon@2x.png in Resources */,
+				736E2FEA1DF95B11001F41A7 /* gubbehuvud.png in Resources */,
+				736E2FF41DF95B11001F41A7 /* ic_search_2x.png in Resources */,
+				736E2FF71DF95B11001F41A7 /* ic_shopping_cart_48pt_3x.png in Resources */,
+				73AE36F01DF8484700E7C4A1 /* hjalptjej_icon.png in Resources */,
+				736E2FFD1DF95B11001F41A7 /* rabatt_halsofreak.jpg in Resources */,
 				734B3E2D1DEEDED100095D2F /* ic_face_3x.png in Resources */,
+				736E2FE81DF95B11001F41A7 /* faces.png in Resources */,
+				736E2FF51DF95B11001F41A7 /* ic_search.png in Resources */,
+				736E2FF21DF95B11001F41A7 /* ic_face.png in Resources */,
+				73418B9A1DFE94EA000AECE4 /* done.png in Resources */,
+				736E2FFA1DF95B11001F41A7 /* map.png in Resources */,
+				736E2FFC1DF95B11001F41A7 /* rabatt_cykelservice.jpg in Resources */,
 				734B3E291DEEDD2800095D2F /* ic_settings_black_24dp.png in Resources */,
-				734B3E231DEED48400095D2F /* Avatar_icon@3x.png in Resources */,
+				736E2FF11DF95B11001F41A7 /* ic_face_2x.png in Resources */,
+				736E2FE71DF95B11001F41A7 /* dribbble-1000-folowers.gif in Resources */,
+				736E2FE91DF95B11001F41A7 /* glatt face.png in Resources */,
+				736E2FEC1DF95B11001F41A7 /* Help Old Joe - Firstpage.jpg in Resources */,
+				736E2FF01DF95B11001F41A7 /* ic_event_note_48pt_3x.png in Resources */,
 				739F389C1DEC3AF30090D2D9 /* Assets.xcassets in Resources */,
+				73ECEF621DFAE4A000F66E51 /* ic_build_3x_faded.png in Resources */,
+				73418B981DFE8FE5000AECE4 /* gubbeutantext.png in Resources */,
 				734B3E2B1DEEDEC100095D2F /* ic_build_3x.png in Resources */,
+				736E2FEF1DF95B11001F41A7 /* ic_account_circle_2x.png in Resources */,
+				736E2FED1DF95B11001F41A7 /* hjalptjej_photo.png in Resources */,
 				734B3E371DEEF37700095D2F /* ic_room_2x.png in Resources */,
 				734B3E331DEEE04100095D2F /* ic_query_builder_3x.png in Resources */,
+				736E2FE51DF95B11001F41A7 /* Avatar_icon@3x.png in Resources */,
+				736E2FEB1DF95B11001F41A7 /* gubbemedkropp.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "35C354FB6E4E7E0BB8A750DAD98D93EBBC510A2E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "35C354FB6E4E7E0BB8A750DAD98D93EBBC510A2E" : 9223372036854775807,
+    "41B225257D4A83EE6A67EAF6AB96BEAD60674DEF" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4845B6BD-B728-4C16-939E-8D524A57B49D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "35C354FB6E4E7E0BB8A750DAD98D93EBBC510A2E" : "help-old-joe\/",
+    "41B225257D4A83EE6A67EAF6AB96BEAD60674DEF" : "..\/..\/..\/Frost\/easyhunt-ios"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HOJ",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HOJ.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/miqqo\/help-old-joe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35C354FB6E4E7E0BB8A750DAD98D93EBBC510A2E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:FrostDigital\/easyhunt-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "41B225257D4A83EE6A67EAF6AB96BEAD60674DEF"
+    }
+  ]
+}

@@ -10,6 +10,9 @@
 #import "ProfileViewController.h"
 
 @interface ViewController ()
+- (IBAction)buildButton:(id)sender;
+@property (weak, nonatomic) IBOutlet UIButton *build;
+@property (weak, nonatomic) IBOutlet UITextField *emailTextField;
 
 @end
 
@@ -17,9 +20,17 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    UITapGestureRecognizer *tap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(dismissKeyboard)];
+    
+    [self.view addGestureRecognizer:tap];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+-(void)dismissKeyboard
+{
+    [self.emailTextField resignFirstResponder];
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
@@ -27,4 +38,7 @@
 }
 
 
+- (IBAction)buildButton:(id)sender {
+    [self.build setImage:[UIImage imageNamed:@"ic_build_3x.png"] forState:UIControlStateNormal];
+}
 @end
